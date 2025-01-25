@@ -1,3 +1,5 @@
+**NOTE**: REPLACE AWS ACCOUNT ID IN THE LAMBDA FUNCTION CODE.
+
 AWS S3 Event triggering is a very popular project used by top companies in the Industry.
 
 Here are some examples of top companies that use S3 event triggering:
